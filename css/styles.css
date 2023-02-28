@@ -1,0 +1,33 @@
+body {
+    background-color:darkolivegreen;
+    margin-left: 20px;
+}
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipeList {
+    margin: 50px 0px;
+    padding: 25px 25px; 
+    background-color: burlywood; 
+    width: 300px;
+}
+
+img {
+    width: 250px;
+}
+
+.recipeName {
+    background-color:brown; 
+    color:lightblue;
+    padding: 5px 50px;
+    margin-right: 800px; 
+    border: solid salmon; 
+    border-radius: 15px;
+    border-width: 5px;
+}
+
+.recipeDesc {
+    width: 700px;
+}
